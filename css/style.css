@@ -44,7 +44,7 @@ p {
 }
 
 a:link, a:visited {
-  color: green;
+  color: #00FF00;
   text-decoration: underline
 }
 
