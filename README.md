@@ -1,2 +1,2 @@
-# bamboostudios.github.io
+# http://bamboostudios.ga
 
