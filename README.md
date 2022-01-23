@@ -1,2 +1,2 @@
-# http://bamboostudios.ga
+# https://bamboostudios.ga
 
