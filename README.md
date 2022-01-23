@@ -1,2 +1,2 @@
-# htmlacademy.github.io
-Мой первый хостинг
+# bamboostudios.github.io
+
