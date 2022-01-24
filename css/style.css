@@ -29,13 +29,4 @@ p {
   margin: 20px 0;
 }
 
-a:link, a:visited {
-  color: #ffffff;
-  text-decoration: underline
-}
-
-a:hover {
-  text-decoration: none
-}
-
  
